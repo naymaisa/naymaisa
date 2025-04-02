@@ -40,6 +40,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=API_ToDoList&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=Portifolio_EBAC_aula&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=Loja-de-doces&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=ProjetoCadastroCliente_EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=Projeto2_Java_Ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=MyPersonalBio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=LivrariaBS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
