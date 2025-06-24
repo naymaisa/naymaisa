@@ -47,7 +47,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=MyPersonalBio&theme=dark)](https://github.com/naymaisa/MyPersonalBio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=LivrariaBS&theme=dark)](https://github.com/naymaisa/livrariaBs)
 
-## 💻 Últimos vídeos do meu canal [Codando com Nay](https://www.youtube.com/@CodandocomNay)
+## 💻 Vídeos do meu canal [Codando com Nay](https://www.youtube.com/@CodandocomNay)
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Migrando de Área -- De Biomédica para Programadora](https://ytcards.demolab.com/?id=6jkEYZa0mXc&title=Migrando+de+Área+--+De+Biomédica+para+Programadora&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=210&border_radius=5 "Migrando de Área -- De Biomédica para Programadora")](https://youtu.be/6jkEYZa0mXc)
 [![Primeiros Passos na Programação - Construindo uma API com Java](https://ytcards.demolab.com/?id=iMsznPN4iXE&title=Primeiros+Passos+na+Programação+-+Construindo+uma+API+com+Java&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=210&border_radius=5 "Primeiros Passos na Programação - Construindo uma API com Java")](https://youtu.be/iMsznPN4iXE)
