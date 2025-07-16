@@ -18,6 +18,9 @@
    <img  src=" https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src= "https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   <img src= "https://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=cypress"/>
+   <img src= "https://img.shields.io/badge/junit-%23E33332?style=for-the-badge&logo=junit5&logoColor=white"/>
+   <img src= "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
 
 
@@ -60,8 +63,7 @@
 
 
  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{naymaisa}/count.svg" /></p> 
+
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
