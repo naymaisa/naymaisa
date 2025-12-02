@@ -33,22 +33,7 @@
     
 ##
  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=naymaisa&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymaisa&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-  
-</div>
 
-
-#####  Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=ToDoList&theme=dark)](https://github.com/naymaisa/ToDoList)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=API_ToDoList&theme=dark)](https://github.com/naymaisa/API_ToDoList)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=Portifolio_EBAC_aula&theme=dark)](https://github.com/naymaisa/Portifolio_EBAC_aula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=ApiJavaProduct&theme=dark)](https://github.com/naymaisa/ApiJavaProduct)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=ProjetoCadastroCliente_EBAC&theme=dark)](https://github.com/naymaisa/ProjetoCadastroCliente_EBAC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=Projeto2_Java_Ebac&theme=dark)](https://github.com/naymaisa/Projeto2_Java_Ebac)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=MyPersonalBio&theme=dark)](https://github.com/naymaisa/MyPersonalBio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naymaisa&repo=LivrariaBS&theme=dark)](https://github.com/naymaisa/livrariaBs)
 
 ## 💻 Vídeos do meu canal [Codando com Nay](https://www.youtube.com/@CodandocomNay)
 <!-- BEGIN YOUTUBE-CARDS -->
